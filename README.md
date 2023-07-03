@@ -1,5 +1,3 @@
-# ncc.tamsyv2.api
+# ImageInverter
 
-
-#To Do
-Equui feldbypmeI
+## A simple web application made with ESL play and Akka

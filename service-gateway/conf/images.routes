@@ -1,0 +1,2 @@
+GET             /download/:imgURI               controllers.Image_InverterController.handleDownload(imgURI: String)
+POST            /upload                         controllers.Image_InverterController.handleUpload()

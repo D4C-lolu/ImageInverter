@@ -17,3 +17,4 @@ GET            /api-server/error/                                              c
 GET            /error                                                          controllers.HomeController.error()
 GET            /error/                                                         controllers.HomeController.error()
 GET            /api-docs                                                       controllers.HomeController.api()
+->             /images                                                          images.Routes

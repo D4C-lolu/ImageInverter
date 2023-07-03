@@ -157,6 +157,8 @@
         <module>commons</module>
         <module>binder</module>
         <module>integration-tests</module>
+        <module>image_inverter-api</module>
+        <module>image_inverter-impl</module>
     </modules>
 </project>
 
